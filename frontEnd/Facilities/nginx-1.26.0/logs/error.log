@@ -1,0 +1,1 @@
+2024/04/28 13:53:40 [error] 12440#17092: *1 CreateFile() "C:\Users\MewMew\Software\Facilities\nginx-1.26.0/html/demo" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /demo HTTP/1.1", host: "localhost"
